@@ -60,3 +60,5 @@ rectangle(5,5,'black')
 #mouth
 t.goto(-65,135)
 rectangle(40,5,'black')
+
+t.hideturtle()
